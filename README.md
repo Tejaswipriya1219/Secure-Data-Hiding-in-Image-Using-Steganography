@@ -28,7 +28,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/Tejaswipriya1219/TEJASWI-LAKSHMI-PRIYA-PILLALA.git
+https://github.com/Tejaswipriya1219/Secure-Data-Hiding-in-Image-Using-Steganography.git
 
 
 2. Install dependencies:
